@@ -1,1 +1,1 @@
-# pintureriacolorplus
+color-plus-web
